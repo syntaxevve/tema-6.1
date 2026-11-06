@@ -1,0 +1,15 @@
+C:\Users\Frank diaz\Desktop\Subtema5.4\Subtema5.4\bin\Debug\Subtema5.4.exe.config
+C:\Users\Frank diaz\Desktop\Subtema5.4\Subtema5.4\bin\Debug\Subtema5.4.exe
+C:\Users\Frank diaz\Desktop\Subtema5.4\Subtema5.4\bin\Debug\Subtema5.4.pdb
+C:\Users\Frank diaz\Desktop\Subtema5.4\Subtema5.4\obj\Debug\Subtema5.4.csproj.AssemblyReference.cache
+C:\Users\Frank diaz\Desktop\Subtema5.4\Subtema5.4\obj\Debug\Subtema5.4.csproj.CoreCompileInputs.cache
+C:\Users\Frank diaz\Desktop\Subtema5.4\Subtema5.4\obj\Debug\Subtema5.4.exe
+C:\Users\Frank diaz\Desktop\Subtema5.4\Subtema5.4\obj\Debug\Subtema5.4.pdb
+C:\Users\Frank diaz\Desktop\Subtema5.4\Subtema5.4\obj\Debug\Subtema5.4.exe.config
+C:\Users\UCA40417\Desktop\tema 6.1\FunProgSubTema5.4\Subtema5.4\bin\Debug\Subtema5.4.exe.config
+C:\Users\UCA40417\Desktop\tema 6.1\FunProgSubTema5.4\Subtema5.4\bin\Debug\Subtema5.4.exe
+C:\Users\UCA40417\Desktop\tema 6.1\FunProgSubTema5.4\Subtema5.4\bin\Debug\Subtema5.4.pdb
+C:\Users\UCA40417\Desktop\tema 6.1\FunProgSubTema5.4\Subtema5.4\obj\Debug\Subtema5.4.csproj.AssemblyReference.cache
+C:\Users\UCA40417\Desktop\tema 6.1\FunProgSubTema5.4\Subtema5.4\obj\Debug\Subtema5.4.csproj.CoreCompileInputs.cache
+C:\Users\UCA40417\Desktop\tema 6.1\FunProgSubTema5.4\Subtema5.4\obj\Debug\Subtema5.4.exe
+C:\Users\UCA40417\Desktop\tema 6.1\FunProgSubTema5.4\Subtema5.4\obj\Debug\Subtema5.4.pdb

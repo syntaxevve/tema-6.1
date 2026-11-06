@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subtema5.4", "Subtema5.4\Subtema5.4.csproj", "{AB99A8B7-DF81-4D24-8DF6-14F8B3C9ABCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB99A8B7-DF81-4D24-8DF6-14F8B3C9ABCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB99A8B7-DF81-4D24-8DF6-14F8B3C9ABCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB99A8B7-DF81-4D24-8DF6-14F8B3C9ABCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB99A8B7-DF81-4D24-8DF6-14F8B3C9ABCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29208D14-7430-4A6D-9F91-7DA20597FDEE}
+	EndGlobalSection
+EndGlobal
